@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "build_number": 2,
+  "download_url": "https://yourusername.github.io/yourrepo/bondhu2-app-release.apk",
+  "force_update": true,
+  "release_notes": "Bug fixes and improvements"
+}
